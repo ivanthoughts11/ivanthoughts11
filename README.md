@@ -12,39 +12,10 @@ I specialize in building modern, performant, and scalable web applications from 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" style="border-radius: 12px; transition: transform 0.3s;" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.ruby-lang.org" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" />
-        </a>
-      </td>
+      <!-- other tech logos -->
       <td align="center">
         <a href="https://www.prisma.io" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/logo-light.svg" width="80" />
+          <img src="https://raw.githubusercontent.com/prisma/prisma/main/packages/cli/src/cli/branding/logo.svg" width="80" />
         </a>
       </td>
       <td align="center">
@@ -60,6 +31,7 @@ I specialize in building modern, performant, and scalable web applications from 
     </tr>
   </table>
 </div>
+
 
 ---
 
@@ -89,7 +61,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://clickup.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968893.png" width="80" />
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968894.png" width="80" />
         </a>
       </td>
     </tr>
