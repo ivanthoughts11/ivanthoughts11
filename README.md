@@ -69,7 +69,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://www.cypress.io/" target="_blank">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" />
+         <img src="https://camo.githubusercontent.com/f58a5e8d4b988d37a6aa1f6a1bb5111cf6ec63b3ac6d95c13c1f4a1ad6c7878c/68747470733a2f2f7777772e6369706865726573732e696f2f696d672f636970726573732d6c6f676f2e706e67" width="60" />
         </a>
       </td>
       <td align="center">
