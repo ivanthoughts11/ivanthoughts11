@@ -43,11 +43,6 @@ I specialize in building modern, performant, and scalable web applications from 
         </a>
       </td>
       <td align="center">
-        <a href="https://www.prisma.io" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/logo-light.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
         <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" />
         </a>
@@ -85,11 +80,6 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       <td align="center">
         <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://clickup.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968893.png" width="80" />
         </a>
       </td>
     </tr>
