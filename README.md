@@ -13,38 +13,48 @@ I specialize in building modern, performant, and scalable web applications from 
   <table>
     <tr>
       <td align="center">
-        <a href="https://nextjs.org" target="_blank">
+        <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" style="border-radius: 12px; transition: transform 0.3s;" />
         </a>
       </td>
       <td align="center">
-        <a href="https://reactjs.org" target="_blank">
+        <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.typescriptlang.org" target="_blank">
+        <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://nodejs.org" target="_blank">
+        <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.ruby-lang.org" target="_blank">
+        <a href="https://www.ruby-lang.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.postgresql.org" target="_blank">
+        <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.prisma.io" target="_blank">
-          <img src="https://www.svgrepo.com/show/354331/prisma.svg" width="80" />
+        <a href="https://www.prisma.io" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/prisma/prisma/main/packages/branding/prisma-logo.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="80" />
         </a>
       </td>
     </tr>
@@ -63,23 +73,23 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
   <table>
     <tr>
       <td align="center">
-        <a href="https://playwright.dev/" target="_blank">
+        <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer">
           <img src="https://playwright.dev/img/playwright-logo.svg" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.cypress.io/" target="_blank">
+        <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer">
          <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="80" />
         </a>
       </td>
       <td align="center">
-        <a href="https://clickup.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/itzklik/ClickUp-Assets/main/logo.svg" width="80" />
+        <a href="https://clickup.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickup/clickup-original.svg" width="80" />
         </a>
       </td>
     </tr>
