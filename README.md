@@ -44,7 +44,7 @@ I specialize in building modern, performant, and scalable web applications from 
       </td>
       <td align="center">
         <a href="https://www.prisma.io" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/prisma/prisma/main/packages/branding/prisma-logo.svg" width="80" />
+          <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/logo-light.svg" width="80" />
         </a>
       </td>
       <td align="center">
@@ -54,7 +54,7 @@ I specialize in building modern, performant, and scalable web applications from 
       </td>
       <td align="center">
         <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="80" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" />
         </a>
       </td>
     </tr>
@@ -89,7 +89,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://clickup.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickup/clickup-original.svg" width="80" />
+          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968893.png" width="80" />
         </a>
       </td>
     </tr>
