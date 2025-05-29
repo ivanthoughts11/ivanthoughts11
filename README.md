@@ -44,7 +44,7 @@ I specialize in building modern, performant, and scalable web applications from 
       </td>
       <td align="center">
         <a href="https://www.prisma.io" target="_blank">
-          <img src="https://www.svgrepo.com/show/354331/prisma.svg" width="80" />
+           <img src="https://raw.githubusercontent.com/prisma/docs/main/src/images/logo.svg" width="60" />
         </a>
       </td>
     </tr>
@@ -79,7 +79,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://clickup.com/" target="_blank">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" />
+         <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" width="60" />
         </a>
       </td>
     </tr>
