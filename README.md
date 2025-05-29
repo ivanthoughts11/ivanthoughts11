@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ban  
+# 👋 Hi, I'm Ban.
 🎯 Fullstack Developer | ⚙️ QA Automation Tester | 🛠 Builder of Scalable Systems
 
 ---
@@ -9,15 +9,47 @@ I specialize in building modern, performant, and scalable web applications from 
 
 ### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
-  <img src="https://www.svgrepo.com/show/354331/prisma.svg" height="50" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://nextjs.org" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" style="border-radius: 12px; transition: transform 0.3s;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://reactjs.org" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.typescriptlang.org" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.ruby-lang.org" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.postgresql.org" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.prisma.io" target="_blank">
+          <img src="https://www.svgrepo.com/show/354331/prisma.svg" width="80" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -27,19 +59,39 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
 
 ### 🧰 Tools & Frameworks
 
-<p align="left">
-  <img src="https://playwright.dev/img/playwright-logo.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ClickUp_logo.svg/512px-ClickUp_logo.svg.png" height="50" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://playwright.dev/" target="_blank">
+          <img src="https://playwright.dev/img/playwright-logo.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.cypress.io/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.atlassian.com/software/jira" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://clickup.com/" target="_blank">
+          <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ClickUp_logo.svg/512px-ClickUp_logo.svg.png"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrSxyKnMBdmFOrMr6qTrkGwWB0rP5oa2V0w&s) width="80" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivaanthoughts11&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaanthoughts11&layout=compact)
+![Ban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanthoughts11&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanthoughts11&layout=compact)
 
 ---
 
