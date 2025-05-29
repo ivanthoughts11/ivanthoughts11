@@ -69,7 +69,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://www.cypress.io/" target="_blank">
-          <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/cypress.jpg" width="80" />
+         <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="80" />
         </a>
       </td>
       <td align="center">
@@ -79,7 +79,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://clickup.com/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ClickUp_logo.svg/512px-ClickUp_logo.svg.png" width="80" />
+          <img src="https://raw.githubusercontent.com/itzklik/ClickUp-Assets/main/logo.svg" width="80" />
         </a>
       </td>
     </tr>
