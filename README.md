@@ -69,7 +69,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://www.cypress.io/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="80" />
+          <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/cypress.jpg" width="80" />
         </a>
       </td>
       <td align="center">
