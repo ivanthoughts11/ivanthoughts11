@@ -8,47 +8,37 @@
 I specialize in building modern, performant, and scalable web applications from front to back.
 
 ### 🚀 Tech Stack
+<style>
+  .tech-icon {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://nextjs.org" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" style="border-radius: 12px; transition: transform 0.3s;" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.typescriptlang.org" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://nodejs.org" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.ruby-lang.org" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.prisma.io" target="_blank">
-           <img src="https://raw.githubusercontent.com/prisma/docs/main/src/images/logo.svg" width="60" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  .tech-icon:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+</style>
+<div class="tech-stack">
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img class="tech-icon" src="https://raw.githubusercontent.com/prisma/docs/main/src/images/logo.svg" />
 </div>
 
 ---
@@ -90,8 +80,8 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
 
 ## 📈 GitHub Stats
 
-![Ban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivaanthoughts11&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaanthoughts11&layout=compact)
+![Ban's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanthoughts11&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanthoughts11&layout=compact)
 
 ---
 
