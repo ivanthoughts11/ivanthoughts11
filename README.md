@@ -79,7 +79,7 @@ As a QA Automation enthusiast, I focus on delivering reliable and testable softw
       </td>
       <td align="center">
         <a href="https://clickup.com/" target="_blank">
-          <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ClickUp_logo.svg/512px-ClickUp_logo.svg.png"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrSxyKnMBdmFOrMr6qTrkGwWB0rP5oa2V0w&s) width="80" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ClickUp_logo.svg/512px-ClickUp_logo.svg.png" width="80" />
         </a>
       </td>
     </tr>
